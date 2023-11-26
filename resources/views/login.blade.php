@@ -32,7 +32,7 @@
                         </div>
                         <a href="#" class="link mt-3" id="li-1"> Lupa password</a>
                         <div class="row mt-4">
-                            <div class="col">
+                            <div class="col-md-3">
                                 <input type="submit" name="kirim" id="send" value="masuk" class="btn btn-primary">
                             </div>
                         </div>
